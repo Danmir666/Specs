@@ -14,8 +14,7 @@
     "ios": "11.0"
   },
   "vendored_frameworks": [
-    "Frameworks/JitsiMeetSDK.xcframework",
-    "Frameworks/WebRTC.xcframework"
+    "Frameworks/JitsiMeetSDK.xcframework"
   ],
   "pod_target_xcconfig": {
     "EXCLUDED_ARCHS[sdk=iphonesimulator*]": "arm64"
